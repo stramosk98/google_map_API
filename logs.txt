@@ -1,0 +1,6 @@
+LOGS:
+
+[2023-07-04T15:06:49.766003+02:00] logs.INFO: Usuário se conectou usando uma conta Google [] []
+[2023-07-04T15:08:41.602572+02:00] logs.INFO: Coordenada cadastrada com sucesso! [] []
+[2023-07-04T15:09:14.961623+02:00] logs.INFO: Usuário desconectou [] []
+[2023-07-04T15:13:12.619010+02:00] logs.INFO: Usuário se conectou usando uma conta Google [] []
